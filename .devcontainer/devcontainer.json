@@ -8,7 +8,8 @@
       "extensions": [
         "EditorConfig.EditorConfig",
         "mhutchie.git-graph",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "Orta.vscode-jest"
       ]
     }
   }
