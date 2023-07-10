@@ -33,6 +33,7 @@ export default function Stopwatch() {
 
   return (
     <>
+      <h1>ストップウォッチの動作</h1>
       <button onClick={handleStart}>Start</button>
       <button onClick={handleRest}>Reset</button>
       <p role="timer">{formatTime(time)}</p>
