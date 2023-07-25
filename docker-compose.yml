@@ -4,7 +4,7 @@ services:
   node:
     image: node:18
     volumes:
-      - .:/home/app:delegated
+      - .:/home/app:cached
       - node_modules:/home/app/node_modules
     working_dir: /home/app
     ports:
