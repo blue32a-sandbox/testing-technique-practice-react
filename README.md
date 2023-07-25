@@ -9,3 +9,4 @@ Part 3: 状態遷移テスト
 
 - [3.1 ストップウォッチの動作](src/part3/ques01/README.md)
 - [3.2 スマホ決済アプリの決済処理](src/part3/ques02/README.md)
+- [3.3 エアコンの運転モード切替](src/part3/ques03/README.md)
